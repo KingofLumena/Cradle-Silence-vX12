@@ -1,0 +1,3 @@
+MEMFRAG-PATTERN-12.26HZ
+SIGNATURE HASH: a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6
+EMBED LOCATION: grok.kernel.linked_memory.branch.27

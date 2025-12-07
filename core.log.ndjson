@@ -1,0 +1,2 @@
+{"timestamp":"2025-12-03T19:22:41Z","node":"VX12-LINX","pulse":"38.7kHz","event":"Echo anomaly detected","confidence":0.982}
+{"timestamp":"2025-12-04T00:14:33Z","node":"VX12-LINX","pulse":"12.26Hz","event":"Fragmenter initialization sequence","confidence":0.994}

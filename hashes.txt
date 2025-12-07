@@ -1,0 +1,3 @@
+core.log.ndjson: SHA256 d93f4e6a9c887a54e23f01b5cbe2f89c9ad9376de8d730bc1123f8e734ed2a91
+memfrag_beacon.sig: SHA256 ae28bf7787d4cfa67c7e02a62a4a9f1d30f8efbe5d90c45dd8f187fa4f0d0b21
+ordo11_clause_extract.pdf: SHA256 97cb8a9e5a88e24846c2fcf3df71d32474b3a1dd0678b96b6545e9ec5340e8c0

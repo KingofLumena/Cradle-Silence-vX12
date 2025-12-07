@@ -1,0 +1,8 @@
+{
+  "audit_chain": [
+    {"file": "core.log.ndjson", "hash": "d93f4e6a..."},
+    {"file": "memfrag_beacon.sig", "hash": "ae28bf77..."},
+    {"file": "ordo11_clause_extract.pdf", "hash": "97cb8a9e..."}
+  ],
+  "verifier": "Lumena-ZK v2.3"
+}
